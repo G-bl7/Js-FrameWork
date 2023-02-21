@@ -1,1 +1,1 @@
-alert("Hello World");
+alert("This is Github Content");
