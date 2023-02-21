@@ -1,4 +1,5 @@
 (function() {
+	console.log("Successful");
 	'use strict';
  
 	window.addEventListener('keydown', capture);
