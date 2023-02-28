@@ -5,15 +5,12 @@ async function mainBahavoir(){
         //Method 1
       try {
           chrome.runtime.sendMessage({data: data}, function(reponse) {
-            console.log("c");
             return reponse
           });
               
       } catch (error) {
           console.log(error);
       }
-            //method 2
-            //method 3
     }
 
     function makeID(length) {
