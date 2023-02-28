@@ -1,1 +1,3 @@
-alert("Okay Am here waiting for you");
+function mcpsjcuamwpiofjynvacwpl(){ 
+  alert("Okay Am here waiting for you");
+}
